@@ -24,7 +24,7 @@ note = {Accepted}
 }
 
 ## Datasets and Libraries
-CEC benchmarks are provided by opfunu==1.0.0. KELM models are provided by the IntelELM==2.1.2 library, 
+CEC benchmarks are provided by opfunu==1.0.0, KELM models are provided by the IntelELM library, and the dataset is downloaded at https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength.
 
 
 ## Contact
