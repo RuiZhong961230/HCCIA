@@ -19,7 +19,8 @@ pages = {},
 year = {2025},  
 issn = {},  
 doi = {},  
-author = {Yuefeng Li, Rui Zhong, Jun Yu, Jiefang Song, Qiwei Wang, Chengzhi Chen, Xiangyang Li, Enlong Liu}  
+author = {Yuefeng Li, Rui Zhong, Jun Yu, Jiefang Song, Qiwei Wang, Chengzhi Chen, Xiangyang Li, Enlong Liu},  
+note = {Accepted}  
 }
 
 ## Datasets and Libraries
