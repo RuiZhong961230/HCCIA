@@ -14,13 +14,11 @@ The uniaxial compressive strength of concrete is a key indicator of its quality 
 @article{Li:25,  
 title = {Uniaxial Compressive Strength of Concrete Inversion using Machine Learning and Computational Intelligence Approach},  
 journal = {Results in Engineering},  
-volume = {},  
-pages = {},  
+pages = {105627},  
 year = {2025},  
-issn = {},  
-doi = {},  
-author = {Yuefeng Li, Rui Zhong, Jun Yu, Jiefang Song, Qiwei Wang, Chengzhi Chen, Xiangyang Li, Enlong Liu},  
-note = {Accepted}  
+issn = {2590-1230},  
+doi = {https://doi.org/10.1016/j.rineng.2025.105627},  
+author = {Yuefeng Li and Rui Zhong and Jun Yu and Jiefang Song and Qiwei Wang and Chengzhi Chen and Xiangyang Li and Enlong Liu},  
 }
 
 ## Datasets and Libraries
