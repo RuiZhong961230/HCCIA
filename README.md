@@ -17,7 +17,7 @@ journal = {Results in Engineering},
 pages = {105627},  
 year = {2025},  
 issn = {2590-1230},  
-doi = {https://doi.org/10.1016/j.rineng.2025.105627},  
+doi = {https://doi.org/10.1016/j.rineng.2025.105627 },  
 author = {Yuefeng Li and Rui Zhong and Jun Yu and Jiefang Song and Qiwei Wang and Chengzhi Chen and Xiangyang Li and Enlong Liu},  
 }
 
